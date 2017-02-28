@@ -145,3 +145,4 @@ $ bundle exec rake publish
 * <del>Maybe add a nice TOC at the top of each page.</del>
 * Write a task for verifying JSON Resource examples against the actual
   API.
+
